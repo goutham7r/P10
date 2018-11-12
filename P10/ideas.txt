@@ -1,0 +1,44 @@
+http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights
+
+https://github.com/fivethirtyeight/data
+
+http://archive.ics.uci.edu/ml/datasets/YearPredictionMSD
+
+https://www.dataquest.io/blog/free-datasets-for-projects/
+ 
+https://github.com/fivethirtyeight/data/blob/master/fifa/fifa_countries_audience.csv
+
+https://github.com/fivethirtyeight/data/tree/master/college-majors
+
+https://github.com/fivethirtyeight/data/blob/master/star-wars-survey/StarWars.csv
+
+
+
+
+Scrape from two different sites
+Store in csv?
+Data needs to be cleaned (commas instead of periods)
+
+Join on 'Capital'
+
+Pandas:
+Add new column called population density
+remove column region
+
+Numpy:
+Linear Regression
+Calculate mean squared error?
+
+
+Plotting:
+Plot two scatter graphs, decide which is appropriate for linear regression
+Feature engineering for linear regression
+Plot best fit line
+Pie chart for populations in continents?
+
+
+
+Functions:
+Distance between two captial cities (calculate using latitude and longitude) : complex formula
+
+
